@@ -39,8 +39,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevin-savaliya&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-savaliya&theme=github-dark-blue&hide_border=false" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-savaliya&layout=compact&theme=github_dark" alt="Top Languages" width="48%" />
 </p>
+
+---
+
+### 📊 Contribution Graph
+
+![Kevin's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kevin-savaliya&theme=github-compact&hide_border=true)
 
 ---
 
@@ -75,7 +81,7 @@
 
 ### 👁️ Profile Visitors
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=kevin-savaliya&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
