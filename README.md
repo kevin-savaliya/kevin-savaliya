@@ -38,15 +38,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin-savaliya&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%" height="100"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-savaliya&layout=compact&theme=github_dark" alt="Top Languages" width="48%" height="100"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kevin-savaliya&show_icons=true&theme=github_dark" alt="GitHub Stats" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-savaliya&layout=compact&theme=github_dark" alt="Top Languages" height="200px"/>
 </p>
-
----
-
-### 📊 Contribution Graph
-
-![Kevin's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kevin-savaliya&theme=github-compact&hide_border=true)
 
 ---
 
