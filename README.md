@@ -8,26 +8,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year MCA student at Nirma University with a strong academic foundation (CGPA: 8.75).
+- 🎓 Final-year MCA student at Nirma University with a strong academic foundation.
 - 💡 Passionate about solving complex problems through innovative software solutions.
 - 🔧 Experienced in building real-world mobile and web applications.
 - ☁️ Trained in cloud-native development, containerization, and secure backend systems.
 - 🌱 Always exploring new technologies in AI, IoT, and scalable app design.
-
----
-
-### 💼 Experience
-
-- 🏢 **Zirozen Software Corporation LLP**  
-  *MERN Stack Intern (2025, Ahmedabad)*  
-  Developed Doctor Management System and Flutter-based mobile apps for patient engagement.
-
-- 🏢 **Corange Lab Solution**  
-  *Flutter Developer Intern (2023–2024, Surat)*  
-  Delivered multiple mobile applications including:
-  - Medzo: Medicine Review App  
-  - Medic: Medicine E-commerce  
-  - SplitX: Expense Manager
 
 ---
 
@@ -54,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevin-savaliya&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kevin-savaliya&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=kevin-savaliya&theme=github-dark-blue&hide_border=false" alt="GitHub Streak Stats" width="48%" />
 </p>
 
 ---
