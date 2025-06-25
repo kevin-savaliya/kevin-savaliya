@@ -14,6 +14,20 @@
 - ☁️ Trained in cloud-native development, containerization, and secure backend systems.
 - 🌱 Always exploring new technologies in AI, IoT, and scalable app design.
 
+---
+
+### 💼 Experience
+
+- 🏢 **Zirozen Software Corporation LLP**  
+  *MERN Stack Intern (2025, Ahmedabad)*  
+  Developed Doctor Management System and Flutter-based mobile apps for patient engagement.
+
+- 🏢 **Corange Lab Solution**  
+  *Flutter Developer Intern (2023–2024, Surat)*  
+  Delivered multiple mobile applications including:
+  - Medzo: Medicine Review App  
+  - Medic: Medicine E-commerce  
+  - SplitX: Expense Manager
 
 ---
 
@@ -40,18 +54,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevin-savaliya&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-savaliya&theme=github-dark-blue&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kevin-savaliya&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="48%" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🩺 **[Doctor Patient Management System](https://doctor-patient-management-beige.vercel.app)**  
+- 🩺 **[Doctor Patient Management System](https://github.com/kevin-savaliya/Doctor_Patient_Management)**  
   Full-stack hospital management system with login, prescriptions, and real-time analytics.  
-  **Stack**: React, Node.js, MongoDB, Render, Vercel
+  **Live**: [Frontend](https://doctor-patient-management-beige.vercel.app)
 
-- 💸 **[SplitX - Expense Manager](https://github.com/kevin-savaliya/SplitX)**  
+- 💸 **[SplitX - Expense Manager](https://github.com/kevin-savaliya/SplitX---Manage-Expenses)**  
   Flutter app for managing group expenses with chat, smart splitting, and payment features.
 
 ---
@@ -77,7 +91,7 @@
 ### 👁️ Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevin-savaliya&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kevin-savaliya&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 ---
