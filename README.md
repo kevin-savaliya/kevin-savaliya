@@ -67,7 +67,7 @@
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Savaliya-blue?logo=linkedin)](https://www.linkedin.com/in/kevin-savaliya-787794241/)  
-📫 Email: [kevinsavaliya171@gmail.com](mailto:kevinsavaliya171@gmail.com)  
+📫 Email: [kevinsavaliyaofficial@gmail.com](mailto:kevinsavaliyaofficial@gmail.com)  
 🔗 GitHub: [@kevin-savaliya](https://github.com/kevin-savaliya)  
 🧠 LeetCode: [kevin-savaliya](https://leetcode.com/u/kevin-savaliya/)
 
